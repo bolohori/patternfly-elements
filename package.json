@@ -119,7 +119,7 @@
     "gulp-sass": "^4.1.0",
     "gulp-shell": "^0.8.0",
     "gulp-sourcemaps": "^3.0.0",
-    "http-server": "^0.12.3",
+    "http-server": "^14.1.0",
     "husky": "^6.0.0",
     "inquirer": "^8.0.0",
     "leasot": "^12.0.0",
